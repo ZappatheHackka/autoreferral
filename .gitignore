@@ -1,0 +1,7 @@
+.venv/
+env/
+.env
+.idea/.
+*.iml
+*.iws
+.idea_modules/.
