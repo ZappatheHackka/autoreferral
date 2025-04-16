@@ -20,9 +20,21 @@ Built to streamline the referral onboarding process at my company, completely re
 
 ## How to Use
 
-- Fill in your credentials
-- Configure IMAPClient to scrape emails based on your specifics
-- Set up a CSV file with the correct headers (`Client Emails`, `Code Sent`, `Codes`), or modify the script to work with your specific headers
-- Ensure the 'Codes' column is populated with your specific codes
-- Run the script to automatically send referral codes to new clients
+1. **Set your credentials**  
+   Add your email, SendGrid key, and other secrets to environment variables or a `.env` file.
+
+2. **Configure email scraping**  
+   Update the `IMAPClient` setup to target your inbox and match the right email content.
+
+3. **Prepare your CSV**  
+   Ensure the file includes the following headers:
+   - `Client Emails`
+   - `Code Sent` (e.g. TRUE/FALSE)
+   - `Codes` (list of unique referral codes)
+
+4. **Run the script**  
+   It will:
+   - Check for new clients
+   - Send referral codes
+   - Update the CSV accordingly
 
