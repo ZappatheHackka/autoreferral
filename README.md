@@ -30,7 +30,7 @@ Built to streamline the referral onboarding process at my company, completely re
 ## 🙋‍♂️ About the Author
 
 Built and maintained by **Christopher Cottone**.  
-Used in production at **Inner Drive Hoops** as the sole digital infrastructure of our fully automated referral system.
+Used in production at **Inner Drive Hoops** as the primary digital infrastructure of our fully automated referral system.
 
 📫 [Email Me](mailto:chriscottone1@gmail.com.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/christopher-cottone-b9820928a/?trk=opento_sprofile_topcard)  
