@@ -13,6 +13,7 @@ A Python automation script used in production to:
 - pandas
 - SendGrid API
 - xlsx / CSV for lightweight persistence
+- Run every 5 minutes autonomously on pythonanywhere.com
 
 ## Why I Built It
 
