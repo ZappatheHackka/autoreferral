@@ -27,6 +27,13 @@ Built to streamline the referral onboarding process at my company, completely re
 - Ensure the 'Codes' column is populated with your specific codes
 - Run the script to automatically send referral codes to new clients
 
+## Sample Photos
+
+![Received Email](BucketsSample.png)
+
+
+![Terminal Output](BucketsOutput.png)
+
 
 ## 🙋‍♂️ About the Author
 
