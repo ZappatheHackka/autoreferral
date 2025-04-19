@@ -35,7 +35,7 @@ Built to streamline the referral onboarding process at my company, completely re
 ![Received Email](BucketsSample.png)
 
 
-- Pythonanywhere terminal showing all clients have been sent their codes
+- Pythonanywhere terminal showing all clients have been sent their codes & all info is up to date
   
 ![Terminal Output](BucketsOutput.png)
 
