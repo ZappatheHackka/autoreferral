@@ -29,9 +29,14 @@ Built to streamline the referral onboarding process at my company, completely re
 
 ## Sample Photos
 
+
+- Example email clients receive
+
 ![Received Email](BucketsSample.png)
 
 
+- Pythonanywhere terminal showing all clients have been sent their codes
+  
 ![Terminal Output](BucketsOutput.png)
 
 
